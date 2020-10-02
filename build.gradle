@@ -1,3 +1,5 @@
+Logar An Amazing Project
+*****
 plugins {
     id 'java'
 }
